@@ -2,6 +2,13 @@
 
 Implementation of SIFT keypoints generator
 
-# To run : 
+## Compiling
 
-./sift <Image file>
+mkdir build && cd build  
+cmake ../sift/  
+make  
+
+## Running
+
+cd build  
+./sift [Image file]  
