@@ -1,3 +1,0 @@
-/home/harsha/opencv_ws/sift/CMakeFiles/edit_cache.dir
-/home/harsha/opencv_ws/sift/CMakeFiles/rebuild_cache.dir
-/home/harsha/opencv_ws/sift/CMakeFiles/sift.dir
